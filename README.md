@@ -7,6 +7,6 @@
 - [ ] ASN
 - [ ] E-mail address
 - [ ] Phone number
-- [ ] Username
+- [X] Username
 - [ ] Person's name
 - [ ] Bitcoin address

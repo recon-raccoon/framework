@@ -4,8 +4,7 @@
   "description": "🦝 Recon Raccoon framework is a automated OSINT for threat intelligence and mapping attack surfaces. ",
   "main": "index.js",
   "scripts": {
-    "test": "node ./test/index.js",
-    "get:latest:sherlock": "git submodule add --depth 1 --branch master https://github.com/sherlock-project/sherlock.git sherlock && cd sherlock && git checkout master -- sherlock/resources/data.json && cd .. && git add . && git commit -m \"Add/update Sherlock submodule with specific file\"    "
+    "test": "node ./test/index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/recon-raccoon/framework/issues"
   },
-  "homepage": "https://github.com/recon-raccoon/framework#readme"
+  "homepage": "https://github.com/recon-raccoon/framework#readme",
+  "dependencies": {
+    "axios": "^1.6.1"
+  }
 }
