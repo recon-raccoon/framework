@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/recon-raccoon/framework?style=flat-square&color=%2317999f)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/recon-raccoon/framework/main?style=flat-square&color=%2317999f)
-![Python Version](https://img.shields.io/badge/nodejs-v19.0.0+-%2361b04a?style=flat-square)
+![NodeJs Version](https://img.shields.io/badge/nodejs-v19.0.0+-%2361b04a?style=flat-square)
 
 **Recon Raccoon**, an open-source intelligence (OSINT) automation tool, seamlessly integrates with a multitude of data sources. By employing a diverse range of techniques in data analysis, it transforms information into a smoothly navigable format, simplifying attack surface identification and streamlining threat intelligence processes.
 
