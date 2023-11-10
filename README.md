@@ -1,12 +1,9 @@
-# ReconRaccoon
+<img src="/assets/logo-text-wide.svg" width="40%">
 
-- [ ] IP address
-- [ ] Domain/sub-domain name
-- [ ] Hostname
-- [ ] Network subnet (CIDR)
-- [ ] ASN
-- [ ] E-mail address
-- [ ] Phone number
-- [X] Username
-- [ ] Person's name
-- [ ] Bitcoin address
+![GitHub](https://img.shields.io/github/license/recon-raccoon/framework?style=flat-square&color=%2317999f)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/recon-raccoon/framework/main?style=flat-square&color=%2317999f)
+![Python Version](https://img.shields.io/badge/nodejs-v19.0.0+-%2361b04a?style=flat-square)
+
+**Recon Raccoon**, an open-source intelligence (OSINT) automation tool, seamlessly integrates with a multitude of data sources. By employing a diverse range of techniques in data analysis, it transforms information into a smoothly navigable format, simplifying attack surface identification and streamlining threat intelligence processes.
+
+We offer a versatile solution comprising a [web-based interface](https://github.com/recon-raccoon/web) with robust database support and a sophisticated, configurable [command-line interface (CLI)](https://github.com/recon-raccoon/cli), both constructed using the [Recon Raccoon framework](https://github.com/recon-raccoon/framework).
