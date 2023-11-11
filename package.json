@@ -1,6 +1,6 @@
 {
   "name": "@recon-raccoon/framework",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "🦝 Recon Raccoon framework is a automated OSINT for threat intelligence and mapping attack surfaces. ",
   "main": "index.js",
   "scripts": {
