@@ -1,5 +1,7 @@
 # Security Policy
 
+[English](/SECURITY.md) | [普通话](/SECURITY.cn.md)
+
 ## Supported Versions
 
 | Version | Supported          |
