@@ -1,4 +1,4 @@
-<img src="https://github.com/recon-raccoon/framework/raw/main/assets/logo-text-wide.svg" width="40%">
+<img src="https://github.com/recon-raccoon/framework/raw/main/assets/logo-text-wide.svg" width="350px">
 
 ![GitHub](https://img.shields.io/github/license/recon-raccoon/framework?style=flat-square&color=%2317999f)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/recon-raccoon/framework/main?style=flat-square&color=%2317999f)
