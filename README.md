@@ -10,9 +10,14 @@
 
 We offer a versatile solution comprising a [web-based interface](https://github.com/recon-raccoon/web) with robust database support and a sophisticated, configurable [command-line interface (CLI)](https://github.com/recon-raccoon/cli), both constructed using the [Recon Raccoon framework](https://github.com/recon-raccoon/framework). 
 
-#
+<br>
 
 ```
 $ npm i @recon-raccoon/framework
 ```
 Using your preferred Node.js package manager, install the latest [framework package](https://www.npmjs.com/package/@recon-raccoon/framework).
+
+#
+
+### Framework Overview
+This foundational code serves as the backbone for Recon Raccoon. Both the [command-line interface (CLI)](https://github.com/recon-raccoon/cli) and the [web UI](https://github.com/recon-raccoon/web) are derived from this repository. The real strength of Recon Raccoon lies in its utilization of open-source external projects, including [the Sherlock project](https://github.com/sherlock-project/sherlock), and others, to create a comprehensive attack surface. Instead of merely appropriating code and presenting it as a new project, we integrate these projects, make adjustments, and incorporate our unique techniques to construct a detailed profile of the target.
