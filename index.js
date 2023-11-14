@@ -9,9 +9,9 @@
  * @property {Object} blockchain - Module for blockchain linking.
  */
 module.exports = {
-    username: require('./lib/UsernameSeeker'),
-    review: require('./lib/ReviewTracer'),
-    socialMedia: require('./lib/SocialHarvester'),
-    linguisticProfiller: require('./lib/LinguisticProfiller'),
-    blockchain: require('./lib/BlockchainLinker')
+    username: require('./modules/UsernameSeeker'),
+    review: require('./modules/ReviewTracer'),
+    socialMedia: require('./modules/SocialHarvester'),
+    linguisticProfiller: require('./modules/LinguisticProfiller'),
+    blockchain: require('./modules/BlockchainLinker')
 };

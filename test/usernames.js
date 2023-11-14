@@ -15,8 +15,6 @@
         if (positiveResults.length === 0) {
             console.log(`[-] ${username[0].username} is not active.`);
         }
-        
     }
-
 
 })();
