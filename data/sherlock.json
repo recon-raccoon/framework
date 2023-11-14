@@ -424,8 +424,8 @@
       "username_claimed": "blue"
     },
     "Clozemaster": {
-      "errorMsg": "Oh no! Player not found.",
-      "errorType": "message",
+      "errorType": "response_url",
+      "errorUrl": "https://www.clozemaster.com/dashboard",
       "url": "https://www.clozemaster.com/players/{}",
       "urlMain": "https://www.clozemaster.com",
       "username_claimed": "green"
@@ -1243,7 +1243,7 @@
       "username_claimed": "jcs"
     },
     "Lolchess": {
-      "errorMsg": "No search results",
+      "errorMsg": "검색 결과가 없습니다",
       "errorType": "message",
       "url": "https://lolchess.gg/profile/na/{}",
       "urlMain": "https://lolchess.gg/",
@@ -1270,7 +1270,7 @@
     },
     "Mapify": {
       "errorType": "response_url",
-      "errorUrl": "https://mapify.travel/{}",
+      "errorUrl": "https://mapify.travel/404",
       "url": "https://mapify.travel/{}",
       "urlMain": "https://mapify.travel/",
       "username_claimed": "mapify"
@@ -1410,13 +1410,6 @@
       "urlMain": "https://nightbot.tv/",
       "urlProbe": "https://api.nightbot.tv/1/channels/t/{}",
       "username_claimed": "green"
-    },
-    "Ninja Kiwi": {
-      "errorType": "response_url",
-      "errorUrl": "https://ninjakiwi.com/profile/{}",
-      "url": "https://ninjakiwi.com/profile/{}",
-      "urlMain": "https://ninjakiwi.com/",
-      "username_claimed": "Kyruko"
     },
     "NintendoLife": {
       "errorType": "status_code",
@@ -2481,7 +2474,7 @@
     },
     "labpentestit": {
       "errorType": "response_url",
-      "errorUrl": "https://lab.pentestit.ru/{}",
+      "errorUrl": "https://lab.pentestit.ru",
       "url": "https://lab.pentestit.ru/profile/{}",
       "urlMain": "https://lab.pentestit.ru/",
       "username_claimed": "CSV"
