@@ -3,6 +3,8 @@
 ![GitHub](https://img.shields.io/github/license/recon-raccoon/framework?style=flat-square&color=%2317999f)
 ![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/recon-raccoon/framework/main?style=flat-square&color=%2317999f)
 ![NodeJs Version](https://img.shields.io/badge/nodejs-v19.0.0+-%2361b04a?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/recon-raccoon/framework?style=flat-square)
+
 &nbsp;
 [English](/README.md) | [普通话](/README.cn.md)
 
