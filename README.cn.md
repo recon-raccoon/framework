@@ -1,10 +1,9 @@
 <img src="https://github.com/recon-raccoon/framework/raw/main/assets/logo-text-wide.svg" width="350px">
 
-![GitHub](https://img.shields.io/github/license/recon-raccoon/framework?style=flat-square&color=%2317999f)
-![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/recon-raccoon/framework/main?style=flat-square&color=%2317999f)
+![GitHub](https://img.shields.io/github/license/recon-raccoon/framework?style=flat-square&color=%2317999f&label=%E8%AE%B8%E5%8F%AF%E8%AF%81)
+![GitHub package.json version (branch)](https://img.shields.io/github/package-json/v/recon-raccoon/framework/main?style=flat-square&color=%2317999f&label=%E7%89%88%E6%9C%AC%40main)
 ![NodeJs Version](https://img.shields.io/badge/nodejs-v19.0.0+-%2361b04a?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/recon-raccoon/framework?style=flat-square)
-
+![GitHub issues](https://img.shields.io/github/issues/recon-raccoon/framework?style=flat-square&label=%E9%97%AE%E9%A2%98)
 &nbsp;
 [English](/README.md) | [普通话](/README.cn.md)
 
