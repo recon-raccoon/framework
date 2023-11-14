@@ -1,8 +1,6 @@
 (async () => {
     const reconRaccoon = require('../index');
-    const usernameResults = await reconRaccoon.username(['notreeceharris', 'zeno_echozz'], true);
-
-    /*
+    const usernameResults = await reconRaccoon.username(['notreeceharris'], true);
 
     console.log('----------');
 
@@ -20,6 +18,5 @@
         
     }
 
-    */
 
 })();
